@@ -11,13 +11,13 @@ A simple web-based Age Calculator that allows users to calculate their age by en
 
 ## Demo
 
-Check out the live demo [Click Here](https://shanedrasingh.github.io/Quiz-App/). 
+Check out the live demo [Click Here](https://shanedrasingh.github.io/Age-Calculator/). 
 
   
 ## Technologies Used
 
-- **HTML**: For creating the structure of the app.
-- **CSS**: For styling the application and making it responsive.
+- **HTML**: This is used to create the structure of the app.
+- **CSS**: This is for styling the application and making it responsive.
 - **JavaScript**: For calculating the user's age based on input and handling UI interactions.
 
 ## How to Use
@@ -43,6 +43,6 @@ LinkedIn: https://www.linkedin.com/in/shanedra-singh-47342821a/
 
 ## Thank You
 
-Thank you for exploring the To-Do App! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us. 😊
+Thank you for exploring the Age Calculator! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us. 😊
 
 ---
